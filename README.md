@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Daneshjooyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=daneshjooyar-student-01&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneshjooyar-student-01&layout=compact) 
+
 # About me
 
 **daneshjooyar-student-01/daneshjooyar-student-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
